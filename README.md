@@ -7,7 +7,7 @@ python 生物信息相关
 
 [【Python生信编程笔记】一 、介绍](https://www.jianshu.com/p/c220c537c98a)
 
-
+[使用python处理生物信息数据（一）](https://www.jianshu.com/p/75dae6c88bdc)
 
 
 https://github.com/raymonwu/Managing_Your_Biological_Data_with_Python_3
