@@ -21,6 +21,8 @@ python 生物信息相关
 
 [用python爬取一个生物信息网站的全部学习资料](https://zhuanlan.zhihu.com/p/24439922)
 
+[用Python实现一个爬虫爬取ZINC网站进行生物信息学数据分析](https://www.cnblogs.com/jeysin/p/10962316.html)
+
 
 https://github.com/raymonwu/Managing_Your_Biological_Data_with_Python_3
 
