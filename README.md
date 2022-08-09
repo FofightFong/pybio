@@ -34,3 +34,7 @@ https://github.com/Serulab/Py4Bio
 * Anaconda
 # 关键字词
 
+
+# 书籍
+[Python生物学Cookbook - Bioinformatics with Python Cookbook 2nd -2018.pdf](https://www.jianshu.com/p/877df92d6ba9?spm=a2c6h.12873639.article-detail.7.458f55f2OzZFxy)
+
