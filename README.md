@@ -29,7 +29,9 @@ https://github.com/raymonwu/Managing_Your_Biological_Data_with_Python_3
 https://github.com/Serulab/Py4Bio
 
 # 库
-* Biopython
+* Biopython - Python的计算分子生物学和生物信息学工具包
+
+* pysam - 处理基因组数据(fasta/fastq/bam/vcf)的Python模块
 
 * Anaconda
 # 关键字词
