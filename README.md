@@ -23,6 +23,8 @@ python 生物信息相关
 
 [用Python实现一个爬虫爬取ZINC网站进行生物信息学数据分析](https://www.cnblogs.com/jeysin/p/10962316.html)
 
+[生物信息中的Python 01 | 从零开始处理基因序列](https://cloud.tencent.com/developer/article/1772335?from=article.detail.1772337)
+
 
 https://github.com/raymonwu/Managing_Your_Biological_Data_with_Python_3
 
